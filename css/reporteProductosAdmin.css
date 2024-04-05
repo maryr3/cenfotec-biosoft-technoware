@@ -56,13 +56,13 @@ td, th{
 }
 
 thead{
-    background-color: gray;
+    background-color: #005b4d;
     border-bottom: solid 5px black;
     color: white;
 }
 
 tr:nth-child(even){
-    background-color: beige;
+    background-color: #E8F8F5;
 
 }
 
